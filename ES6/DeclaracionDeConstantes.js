@@ -1,3 +1,4 @@
+/*--------------------------Declaracion de constantes----------------------------------*/
 /*
 const son variables que no van a cambiar o no se van a mutar
 Buena practica que las constantes se escriben con mayusculas

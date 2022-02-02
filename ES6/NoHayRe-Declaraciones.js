@@ -1,3 +1,5 @@
+/*--------------------------No hay re-declaraciones----------------------------------*/
+
 /*Solo puede a ver una declaracion por bloque
 var mensaje = "Node";
 var mensaje = "Jest";
