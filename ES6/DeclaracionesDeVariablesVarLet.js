@@ -5,7 +5,7 @@
 
 GlobalScope he declarado la variable, la cual se encuentra en mi obj window
 JS lo va leyendo linea x linea hacia abajo
-EC6 tiene un nuevo tipo de inicializacion de variables
+ES6 tiene un nuevo tipo de inicializacion de variables
 Interprete lee var lo puede leer como un undefined
 En caso del let lo obliga js antes de ser usada, la variable debe de existir
 previamnete

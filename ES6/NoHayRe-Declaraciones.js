@@ -8,7 +8,7 @@ var mensaje = "React";
 console.log(mensaje);
 */
 
-/*En el EC6 la declaracion let obliga, que en el 
+/*En el ES6 la declaracion let obliga, que en el 
 bloque exista la variable con ese nombre 
 
 */

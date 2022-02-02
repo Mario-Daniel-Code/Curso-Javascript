@@ -7,7 +7,7 @@ var Funciones = [];
 /*Ciclo for*/
 /*i es una variable var que es compartida por todas las funciones */
 for (let i = 0; i < 7; i++) {
-  /*En el EC6 gracias al let nos podemos ahorrar varias lineas*/
+  /*En el ES6 gracias al let nos podemos ahorrar varias lineas*/
   /*El método push() añade uno o más elementos al final de un array*/
   Funciones.push(function () {
     console.log(i);
