@@ -33,7 +33,7 @@ Se manda a llamar la funcion y la fn no retorna nada, regresaria un undefined
 y llamada para un objeto diferente */
 var noEsPersona = Persona.call(persona, "No soy Mario");
 
-/*Nota: ES6 new. target te permite detectar si una función o constructor
+/*Nota: ES6 new.target te permite detectar si una función o constructor
 fue llamado usando el operador new.
 Esto asegura que los obj siempre, sean declarados con el obj new
 */
