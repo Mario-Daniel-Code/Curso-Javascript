@@ -1,6 +1,6 @@
 /*------------------Nuevo método: Object.assign()-------------------*/
 
-/*Nos permite extraer todas las propiedades de on objeto y
+/*Nos permite extraer todas las propiedades de un objeto y
 heredarcelas a otra sin usar directamente la herencia*/
 
 /*ES5*/
