@@ -1,7 +1,9 @@
 /*-------------------- siMetodosmples o metodos concisos----------------------*/
 
 /*ES6 Ejemplo con objeto literal*/
-
+/*Que es el metodo conciso
+Son metodos comunes y corrientes solo podemos omitir la palabra function
+*/
 var Usuario = {
 nombre: "Osiel",
 /*Metodo es una fn */
