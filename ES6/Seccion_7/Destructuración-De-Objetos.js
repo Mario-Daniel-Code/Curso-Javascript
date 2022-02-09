@@ -1,5 +1,6 @@
 /*-----------------Destructuración de objetos----------------------*/
 
+/*Permite desempacar valores de arreglos o propiedades de objetos en distintas variables*/
 /*Mi objeto con muchas propiedades*/
 let ajustes = {
   nombre: "Mario Martinez",
