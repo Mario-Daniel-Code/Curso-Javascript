@@ -1,5 +1,6 @@
 /*---------------------Símbolos y propiedades------------------*/
-
+/*Que es
+Es un nuevo tipo de valor primitivo*/
 /*Para que nos sirven los simbolos
 Son buenos para poner nombre de propiedades y no colisionen entre librerias
 */

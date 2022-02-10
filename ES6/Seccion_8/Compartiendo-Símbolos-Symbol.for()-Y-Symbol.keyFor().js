@@ -7,6 +7,10 @@
 el runtime global del registro de symbols con la key enviada
 cómo argumento y devuelve el symbol si fue encontrada. Sino,
 un nuevo symbol es creado en el registro global de symbols con dicha key  */
+
+/*Symbol.for, verifica si existe el símbolo, si no, lo creara... 
+en la segunda línea, busca el símbolo y lo encuentra, por eso le
+asigna el mismo valor que tenia el símbolo original, esto me paso en un ejemplo*/
 let userId = Symbol.for("userId");
 
 let objeto = {};
