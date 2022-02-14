@@ -4,15 +4,14 @@
 
 var Funciones = [];
 
-/*Ciclo for*/
+/*Ciclo for en ES6*/
 /*i es una variable var que es compartida por todas las funciones */
 for (let i = 0; i < 7; i++) {
   /*En el ES6 gracias al let nos podemos ahorrar varias lineas*/
   /*El método push() añade uno o más elementos al final de un array*/
-  Funciones.push(function () {
-    console.log(i);
-  });
+  Funciones.push(function () {console.log(i);});
 
+  /*ES5 */
   /*Funciones.push(
     // Invocar la misma funcion para poder cambiar el valor de i
     function(valor){
@@ -27,4 +26,5 @@ for (let i = 0; i < 7; i++) {
 Funciones.forEach(function (fucn) {
   /*Alias de las funciones que fueron creadas*/
   fucn();
+  console.log(fucn)
 });

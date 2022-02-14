@@ -4,9 +4,9 @@ var saludo = "Hola Mundo";
 /*Substr devuelve caracteres del valor cadena que comienzan
 desde la posición de caracteres especificada por inicio*/
 //Si la palabra es con H mayuscula
-console.log( saludo.substr(0,1) === "H");
+console.log( saludo.substr(-20,2) === "Ho");
 //Comienza con => startsWith
-console.log(saludo.startsWith("Co"));
+console.log(saludo.startsWith("Ho"));
 //Termina con => endsWith
 console.log(saludo.endsWith("undo"));
 //Pregunta si hay una M

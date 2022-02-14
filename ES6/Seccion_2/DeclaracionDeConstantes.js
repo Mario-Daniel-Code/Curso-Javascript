@@ -13,7 +13,7 @@ const USUARIO  = {
     edad: "22",
 };
 //Podemos hacer esto, pero no debria de hacerlo
-//No es correcto hacer la reinicializacion de el objeto, marcara error
+//No es correcto hacer la reinicializacion de el objeto, porque marcara error
 USUARIO.nombre="Luis";
 console.log(USUARIO);
 

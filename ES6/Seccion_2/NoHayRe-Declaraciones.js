@@ -5,6 +5,7 @@ var mensaje = "Node";
 var mensaje = "Jest";
 var mensaje = "ReactNative";
 var mensaje = "React";
+//En este caso imprime la ultima vez que se declaro la varible
 console.log(mensaje);
 */
 

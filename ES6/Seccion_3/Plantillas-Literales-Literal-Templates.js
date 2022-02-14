@@ -11,15 +11,16 @@ console.log(`Saludos ${nombre}`);
 
 let edad = "26";
 let municipio= "Toluca"
-
+/*ES5 */
 let datosPersonales1 = "Mi edad es de" + " " + edad + " " +"años y vivo en el municipio de" + " " + municipio;
 
 console.log(datosPersonales1);
 
-/*Usando el template literal, estos `` se puyeden trasformar o mutar
+/*Usando el template literal, estos `` se pueden trasformar o mutar
 La trasformacion de mis variables en con signo de dolar, llaves y dentro mi variable nombre
 Lo que lee js es codigo puro
 */
+/*ES6 */
 let datosPersonales2 = `Tengo ${edad} años y vivo en el municipio de ${municipio}`;
 console.log(datosPersonales2);
 
