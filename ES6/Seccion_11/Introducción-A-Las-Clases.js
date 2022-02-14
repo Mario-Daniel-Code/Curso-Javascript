@@ -31,7 +31,7 @@ let Mario = ClasesOnline("Mario");
 // Mario.gritarMateria();
 // Mario.decirMateria();
 
-/* Verifica si un objeto en su cadena de prototipos contiene la propiedad prototype de un constructor*/
+/*instanceof Verifica si un objeto en su cadena de prototipos contiene la propiedad prototype de un constructor*/
 /*Usando new es una instancia de ClasesOnline y tambien es una instancia de objeto */
 console.log(Mario instanceof ClasesOnline);
 console.log(Mario instanceof Object);
