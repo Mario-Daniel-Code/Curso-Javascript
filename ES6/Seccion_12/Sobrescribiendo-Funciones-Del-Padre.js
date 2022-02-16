@@ -12,6 +12,7 @@ class Triangulo {
     }
   }
   
+  /*Extends se puede usar para crear una subclase a partir de clases personalizadas, así como sus objetos incorporados */
   class Cuadrado extends Triangulo {
     constructor(alto) {
       super(alto, alto);

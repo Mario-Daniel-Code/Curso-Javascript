@@ -1,6 +1,6 @@
 /*----------------------Herencia de las Clases-------------------------*/
 
-/*Trasferir metodos y propiedades a un hijo desde la clase padre*/
+/* Herencia Trasferir metodos y propiedades a un hijo desde la clase padre*/
 
 class Triangulo {
   constructor(alto, largo) {

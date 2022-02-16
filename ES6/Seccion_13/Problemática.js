@@ -20,9 +20,11 @@ function tareaAsincrona() {
 tareaAsincrona();
 console.log("Codigo secuencial");
 
+/*Resolve (value) retorna un objeto Promise que es resuelto con el valor dado */
 function resolve() {
   console.log("Todo ok");
 }
+/*Reject (reason) retorna un objeto Promise que es rechazado por la razón específicado*/
 function reject() {
   console.log("Todo mal");
 }
