@@ -23,7 +23,7 @@ class Usuario {
   /*Métodos estáticos son llamados sin instanciar su clase. Son habitualmente utilizados para crear funciones
 para una aplicación */
 
-  /*Metodos estaticos nos permite ejecutar alguna funcion que este dentro de mi clase sin instanciar la clase */
+  /*Son metodos que se pueden ejecutar solo con hacer referencia a la clase directamentre */
   /*Vamos a ejecutar el decirNombre fuera de la clase*/
 
   /*Definir un metodo estatico para una clase y como declararlo*/
